@@ -15,10 +15,16 @@
 ---
 
 ## 🚀 Projects
+
 ⭐ AI Support Portal (RAG + ChromaDB + Groq)  
 ⭐ IoT IV Bag Monitoring System  
 ⭐ Real vs Fake News Detector  
-⭐ Full Stack Web Applications  
+
+⭐ Clinic Management System  
+   - HTML, CSS, JavaScript, Python version  
+   - Django + React full-stack version  
+
+⭐ Full Stack Web Applications 
 
 ---
 ## 🛠️ Tech Stack
