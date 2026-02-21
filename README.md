@@ -21,13 +21,14 @@
 ⭐ Full Stack Web Applications  
 
 ---
-
 ## 🛠️ Tech Stack
+
 **Frontend:** React, HTML, CSS, JavaScript  
-**Backend:** FastAPI, Python  
+**Backend:** FastAPI, Django, Python  
 **Database:** SQLite, ChromaDB  
-**AI:** LLM, RAG, Vector DB  
-**Tools:** Git, GitHub, VS Code  
+**AI:** LLM, RAG, Vector Databases  
+**Concepts:** OOP, REST APIs, Data Structures  
+**Tools:** Git, GitHub, VS Code
 
 ---
 
