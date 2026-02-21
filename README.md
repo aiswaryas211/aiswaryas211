@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Aiswarya
 
-<!--
-**aiswaryas211/aiswaryas211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering student  
+💻 AI & Full-Stack Developer  
+🚀 Passionate about building real-world intelligent systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 Currently working on AI-powered applications
+- 🤖 Interested in RAG, LLM, and AI automation
+- 💡 Love solving real-world problems with tech
+- 🎯 Goal: Build impactful AI products
+
+---
+
+## 🚀 Projects
+⭐ AI Support Portal (RAG + ChromaDB + Groq)  
+⭐ IoT IV Bag Monitoring System  
+⭐ Real vs Fake News Detector  
+⭐ Full Stack Web Applications  
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** React, HTML, CSS, JavaScript  
+**Backend:** FastAPI, Python  
+**Database:** SQLite, ChromaDB  
+**AI:** LLM, RAG, Vector DB  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/aiswarya-s-467546335
+- Email: aiswaryas211@gmail.com
