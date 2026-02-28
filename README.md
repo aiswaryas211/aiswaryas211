@@ -1,12 +1,10 @@
-# Hi there
+# Hi there ⭐
 
 🎓 Electronics and Communication Engineering student  
     AI & Full-Stack Developer  
     Passionate about building real-world intelligent systems  
 
 ---
-
-
 
 ## 🚀 Projects
 
