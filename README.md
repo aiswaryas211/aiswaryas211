@@ -1,16 +1,16 @@
 # Hi 👋 I'm Aiswarya
 
 🎓 Electronics and Communication Engineering student  
-💻 AI & Full-Stack Developer  
-🚀 Passionate about building real-world intelligent systems  
+    AI & Full-Stack Developer  
+    Passionate about building real-world intelligent systems  
 
 ---
 
 ## 🔥 About Me
-- 🌱 Currently working on AI-powered applications
-- 🤖 Interested in RAG, LLM, and AI automation
-- 💡 Love solving real-world problems with tech
-- 🎯 Goal: Build impactful AI products
+-  Currently working on AI-powered applications
+-  Interested in RAG, LLM, and AI automation
+-  Love solving real-world problems with tech
+-  Goal: Build impactful AI products
 
 ---
 
